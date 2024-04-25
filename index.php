@@ -197,7 +197,7 @@ if(isset($_SESSION['login'])){
     </div>
     <div class="form-floating">
       <input type="number" name="umur" class="form-control" id="floatingUmur" placeholder="Umur">
-      <label for="floatingPassword">Umur</label>
+      <label for="floatingUmur">Umur</label>
     </div>
     <button class="btn btn-primary w-100 py-2" type="submit">Sign in</button>
     <p class="mt-5 mb-3 text-body-secondary">&copy; 2017–2024</p>
